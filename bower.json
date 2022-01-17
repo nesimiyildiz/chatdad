@@ -1,0 +1,18 @@
+{
+  "name": "chatdad",
+  "description": "",
+  "main": "",
+  "authors": [
+    "nesimiyildiz <nesimi_yildiz@aof.anadolu.edu.tr>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/nesimiyildiz/chatdad",
+  "private": true,
+  "dependencies": {
+    "angular": "1.7.0"
+  }
+}
